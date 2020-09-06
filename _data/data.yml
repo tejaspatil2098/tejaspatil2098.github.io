@@ -45,11 +45,10 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: About
     summary: |
-      After a bachelor's degree at National Institute of Engineering (Mysore, India) in Mechanical engineering, 
-      I pursued my master's first year for Automotive Engineering for Sustainable Mobility in the Polytech Orleans,France.
-      Currently pursuing second year in ISAT, France.
+      I am currently pursuing Master's degree in Automotive engineering for sustainable mobility. 
+      With my knowledge and professional practice experience in the field of Automotive industry, I believe I can make a valuable contribution to the Automotive Industry.
 
 news:
     title: News
@@ -131,77 +130,51 @@ educationcomplete:
         Bachelor's degree in Mechanical Engineering
 
 
-#experiences:
-    #- role: Lead Developer
-      #time: 2015 - Present
-      #company: Startup Hubs, San Francisco
-      #details: |
-        #Describe your role here lorem ipsum dolor sit amet, consectetuer
-        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        #Cum sociis natoque penatibus et magnis dis parturient montes,
-        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        #pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        #enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        #error sit voluptatem accusantium doloremque laudantium, totam rem
-        #aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        #architecto beatae vitae dicta sunt explicabo.
+experiences:
+    - role: Intern
+      time: January 2018 - February 2019
+      company: Veera Vahana Udyog Pvt. Ltd., Bangalore INDIA
+      details: |
+        Describe your role here 
 
-          #- Bullet point
-          #- Bullet point
+          - Bullet point
+          - Bullet point
 
-    #- role: Senior Software Engineer
-      #time: 2014 - 2015
-      #company: Google, London
-      #details: |
-        #Describe your role here lorem ipsum dolor sit amet, consectetuer
-        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        #Cum sociis natoque penatibus et magnis dis parturient montes,
-        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        #pellentesque eu, pretium quis, sem.
+    - role: Intern
+      time: June 2018 - July 2018
+      company: PLANSEE INDIA HIGH PERFORMANCE MATERIALS PRIVATE LIMITED, Mysore INDIA
+      details: |
+        Describe your role here 
 
-          #- Bullet point
-          #- Bullet point
+          - Bullet point
+          - Bullet point
 
-    #- role: UI Developer
-      #time: 2012 - 2014
-      #company: Amazon, London
-      #details: |
-        #Describe your role here lorem ipsum dolor sit amet, consectetuer
-        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        #Cum sociis natoque penatibus et magnis dis parturient montes,
-        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        #pellentesque eu, pretium quis, sem.
+    - role: Intern
+      time: July 2017 - August 2017
+      company: Tenneco, Bangalore INDIA
+      details: |
+        Describe your role here 
 
-          #- Bullet point
-          #- Bullet point
+          - Bullet point
+          - Bullet point
 
-#projects:
-    #title: Projects
-    #intro: >
-      #You can list your side projects or open source libraries in this
-      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+projects:
+    title: Projects
+    intro: >
+      
 
-    #assignments:
-      #- title: Velocity
-        #link: "#hook"
-        #tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    assignments:
+      - title: Modelling of Series Hybrid Vehicle
+        link: "#"
+        tagline: "Responsible for Simulation and optimization Energy management system for the powertrain model using Simulink, modelling of Electrical motor using Simulink, and overall integration of the Simulink model for series hybrid powertrain."
 
-      #- title: DevStudio
-        #link: "#"
-        #tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Motor Generator Unit - Heat for passenger vehicles
+        link: "#"
+        tagline: "Designed a Motor Generator Unit - Heat for passenger vehicles"
 
-      #- title: Tempo
-        #link: "#"
-        #tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      #- title: Atom
-        #link: "#"
-        #tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      #- title: Delta
-        #link: "#"
-        #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Synthesis and Characterization of Multi-layer metal oxides for Photo-voltaic application- Nano technology
+        link: "#"
+        tagline: "A study on Synthesis and Characterization of Multi-layer metal oxides for Photo-voltaic application- Nano technology"
 
 publications:
     title: Publications
@@ -209,37 +182,9 @@ publications:
       
 
     papers:
-      - title: "Rethinking Zero-shot Video Classification: End-to-end Training for Realistic Applications"
-        authors: B. Brattoli, J. Tighe, F. Zhdanov, P. Perona, K. Chalupka
-        conference: CVPR, 2020
-        
-      - title: "MIC: Mining Interclass Characteristics for Improved Metric Learning"
-        authors: B. Brattoli*, K. Roth*, B. Ommer
-        conference: ICCV, 2019
-
-      - title: "Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning"
-        authors: B. Brattoli*, U. Buechler*, B. Ommer
-        conference: ECCV, 2018
-
-      - title: "LSTM Self-Supervision for Detailed Behavior Analysis"
-        authors: B. Brattoli*, U. Buechler*, A. Wahl, M. Schwab, B. Ommer
-        conference: CVPR, 2017
-
-      - title: "Cross and Learn: Cross-Modal Self-Supervision"
-        authors: N. Sayer, B. Brattoli, B. Ommer
-        conference: oral at GCPR, 2018
-
-      - title: "X-GAN: Improving Generative Adversarial Networks with ConveX Combinations"
-        authors: O. Blum, B. Brattoli, B. Ommer
-        conference: oral at GCPR, 2018
-
-      - title: "Optogenetically stimulating intact rat corticospinal tract post-stroke restores motor control through regionalized functional circuit formation"
-        authors: A. S. Wahl*, U. Büchler*, A. Brändli, B. Brattoli, S. Musall, H. Kasper, B. V. Ineichen, F. Helmchen, B. Ommer & M. E. Schwab
-        conference: "Nature Communications, 2017"
-        
-      - title: "Early reduced behavioral activity induced by large strokes affects the efficiency of enriched environment in rats"
-        authors: A. S. Wahl, Erlebach, E, B. Brattoli, U. Büchler, J. Kaiser, V.B. Ineichen, A.C. Mosberger, S. Schneeberger, S. Imobersteg, M. Wieckhorst, M. Stirn, A. Schroeter, B. Ommer, M.E. Schwab
-        conference: "Journal of Cerebral Blood Flow & Metabolism, 2018"
+      - title: "Synthesis and Characterization of Multi-layer metal oxides for Photo-voltaic application- Nano technology"
+        authors: Tejas P.
+        conference: "CVPR, 2020"
 
 skills:
     title: Skills &amp; Proficiency
