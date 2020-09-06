@@ -1,0 +1,267 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Tejas Dilipsing Patil
+    tagline: Automotive Engineer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: biagio.brattoli@gmail.com
+    phone: 
+    website: tejaspatil.github.io/publications/ #do not add http://
+    linkedin: tejaspatil2098
+    github: tejaspatil2098
+    gitlab:
+    bitbucket:
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: English
+        level: Fluent
+
+      - idiom: French
+        level: Fluent
+
+      - idiom: German
+        level: Fluent
+
+    interests:
+      - item: Guitar
+        link:
+
+      - item: Basketball
+        link:
+
+      - item: Biking
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      After a bachelor's degree at National Institute of Engineering (Mysore, India) in Mechanical engineering, 
+      I pursued my master's first year for Automotive Engineering for Sustainable Mobility in the Polytech Orleans,France.
+      Currently pursuing second year in ISAT, France.
+
+news:
+    title: News
+    intro: |
+        
+    
+    posts:
+        - time: June 2020
+          title: Outstanding Reviewer at CVPR 2020
+
+        - time: June 2020
+          title: Article on Amazon Science https://www.amazon.science/blog/video-classifiers-learn-to-recognize-actions-they've-never-seen
+        
+        - time: February 2020
+          title: The work done during my internship was accepted as publication at CVPR 2020
+          
+        - time: July 2019
+          title: Begin Amazon AWS intership with P.Perona in Pasadena, CA
+          
+        - time: July 2019
+          title: One paper accepted at ICCV19
+          
+        - time: January 2019
+          title: Selected as reviewer for ICCV19
+        
+        - time: December 2018
+          title: Selected as reviewer for CVPR19
+        
+        - time: Sptember 2018
+          title: Two papers accepted as orals at GCPR (German Conference for Patter Recognition) as a result of two master thesis which I supervised
+        
+        - time: July 2018
+          title: Attending the International Summer School for Computer Vision (ICVSS) in Sicily, Italy
+        
+        - time: 2018
+          title: Paper accepted as poster at ECCV18 in Munich, Germany
+        
+        - time: 2017
+          title: Attending the Workshop on Behavior Analysis (BAFA, Better Analysis Fewer Animals) in Utrecht, Netherlands
+        
+        - time: 2017
+          title: Paper accepted as poster at CVPR17 in Honolulu, Hawaii
+
+education:
+    - degree: Master Degree
+      university: Institut supérieur de l'automobile et des transports (ISAT) (Nevers, France)
+      time: 2020 - Current
+      details: |
+        Master degree in Automotive Engineering for Sustainable Mobility
+
+    - degree: Master Degree
+      university: Polytechnique de l'Université d'Orléans (Orléans, France)
+      time: 2019 - 2020
+      details: |
+        Master degree in Automotive Engineering for Sustainable Mobility
+    
+    - degree: Bachelor Degree
+      university: National Institute of Engineering (Mysore, KA, India)
+      time: 2015 - 2019
+        Bachelor's degree in Mechanical Engineering
+
+
+educationcomplete:
+    - degree: Master Degree
+      university: Institut supérieur de l'automobile et des transports (ISAT) (Nevers, France)
+      time: 2020 - Current
+      details: |
+        Master degree in Automotive Engineering for Sustainable Mobility
+
+    - degree: Master Degree
+      university: Polytechnique de l'Université d'Orléans (Orléans, France)
+      time: 2019 - 2020
+      details: |
+        Master degree in Automotive Engineering for Sustainable Mobility
+    
+    - degree: Bachelor Degree
+      university: National Institute of Engineering (Mysore, KA, India)
+      time: 2015 - 2019
+        Bachelor's degree in Mechanical Engineering
+
+
+#experiences:
+    #- role: Lead Developer
+      #time: 2015 - Present
+      #company: Startup Hubs, San Francisco
+      #details: |
+        #Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #Cum sociis natoque penatibus et magnis dis parturient montes,
+        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        #enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        #error sit voluptatem accusantium doloremque laudantium, totam rem
+        #aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        #architecto beatae vitae dicta sunt explicabo.
+
+          #- Bullet point
+          #- Bullet point
+
+    #- role: Senior Software Engineer
+      #time: 2014 - 2015
+      #company: Google, London
+      #details: |
+        #Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #Cum sociis natoque penatibus et magnis dis parturient montes,
+        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #pellentesque eu, pretium quis, sem.
+
+          #- Bullet point
+          #- Bullet point
+
+    #- role: UI Developer
+      #time: 2012 - 2014
+      #company: Amazon, London
+      #details: |
+        #Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #Cum sociis natoque penatibus et magnis dis parturient montes,
+        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #pellentesque eu, pretium quis, sem.
+
+          #- Bullet point
+          #- Bullet point
+
+#projects:
+    #title: Projects
+    #intro: >
+      #You can list your side projects or open source libraries in this
+      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+    #assignments:
+      #- title: Velocity
+        #link: "#hook"
+        #tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      #- title: DevStudio
+        #link: "#"
+        #tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      #- title: Tempo
+        #link: "#"
+        #tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      #- title: Atom
+        #link: "#"
+        #tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      #- title: Delta
+        #link: "#"
+        #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+      
+
+    papers:
+      - title: "Rethinking Zero-shot Video Classification: End-to-end Training for Realistic Applications"
+        authors: B. Brattoli, J. Tighe, F. Zhdanov, P. Perona, K. Chalupka
+        conference: CVPR, 2020
+        
+      - title: "MIC: Mining Interclass Characteristics for Improved Metric Learning"
+        authors: B. Brattoli*, K. Roth*, B. Ommer
+        conference: ICCV, 2019
+
+      - title: "Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning"
+        authors: B. Brattoli*, U. Buechler*, B. Ommer
+        conference: ECCV, 2018
+
+      - title: "LSTM Self-Supervision for Detailed Behavior Analysis"
+        authors: B. Brattoli*, U. Buechler*, A. Wahl, M. Schwab, B. Ommer
+        conference: CVPR, 2017
+
+      - title: "Cross and Learn: Cross-Modal Self-Supervision"
+        authors: N. Sayer, B. Brattoli, B. Ommer
+        conference: oral at GCPR, 2018
+
+      - title: "X-GAN: Improving Generative Adversarial Networks with ConveX Combinations"
+        authors: O. Blum, B. Brattoli, B. Ommer
+        conference: oral at GCPR, 2018
+
+      - title: "Optogenetically stimulating intact rat corticospinal tract post-stroke restores motor control through regionalized functional circuit formation"
+        authors: A. S. Wahl*, U. Büchler*, A. Brändli, B. Brattoli, S. Musall, H. Kasper, B. V. Ineichen, F. Helmchen, B. Ommer & M. E. Schwab
+        conference: "Nature Communications, 2017"
+        
+      - title: "Early reduced behavioral activity induced by large strokes affects the efficiency of enriched environment in rats"
+        authors: A. S. Wahl, Erlebach, E, B. Brattoli, U. Büchler, J. Kaiser, V.B. Ineichen, A.C. Mosberger, S. Schneeberger, S. Imobersteg, M. Wieckhorst, M. Stirn, A. Schroeter, B. Ommer, M.E. Schwab
+        conference: "Journal of Cerebral Blood Flow & Metabolism, 2018"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python
+        level: 100%
+
+      - name: PyTorch
+        level: 90%
+
+      - name: Tensorflow
+        level: 60%
+
+      - name: Caffe
+        level: 80%
+
+      - name: Matlab
+        level: 90%
+
+      - name: C/C++
+        level: 75%
+
+footer: >
+    Designed by Tejas Patil
