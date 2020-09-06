@@ -197,19 +197,19 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
+      - name: CATIA
         level: 100%
 
-      - name: PyTorch
+      - name: BCAT
         level: 90%
 
-      - name: Tensorflow
+      - name: Solid Edge
         level: 60%
 
-      - name: Caffe
+      - name: AMESim
         level: 80%
 
-      - name: Matlab
+      - name: Matlab/Simulink
         level: 90%
 
       - name: C/C++
