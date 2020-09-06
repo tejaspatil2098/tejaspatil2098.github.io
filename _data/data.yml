@@ -33,12 +33,18 @@ sidebar:
 
       - idiom: German
         level: Fluent
+      
+      - idiom: Hindi
+        level: Fluent
+        
+      - idiom: Marathi
+        level: Fluent  
 
     interests:
-      - item: Guitar
+      - item: Formula 1
         link:
 
-      - item: Basketball
+      - item: Travelling
         link:
 
       - item: Biking
