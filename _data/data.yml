@@ -33,12 +33,18 @@ sidebar:
 
       - idiom: German
         level: Fluent
+      
+      - idiom: Hindi
+        level: Fluent
+        
+      - idiom: Marathi
+        level: Fluent  
 
     interests:
-      - item: Guitar
+      - item: Formula 1
         link:
 
-      - item: Basketball
+      - item: Travelling
         link:
 
       - item: Biking
@@ -97,18 +103,18 @@ education:
       university: Institut supérieur de l'automobile et des transports (ISAT) (Nevers, France)
       time: 2020 - Current
       details: |
-        Master degree in Automotive Engineering for Sustainable Mobility
+        Automotive Engineering for Sustainable Mobility
 
     - degree: Master Degree
       university: Polytechnique de l'Université d'Orléans (Orléans, France)
       time: 2019 - 2020
       details: |
-        Master degree in Automotive Engineering for Sustainable Mobility
+        Automotive Engineering for Sustainable Mobility
     
     - degree: Bachelor Degree
       university: National Institute of Engineering (Mysore, KA, India)
       time: 2015 - 2019
-        Bachelor's degree in Mechanical Engineering
+        Mechanical Engineering
 
 
 educationcomplete:
@@ -116,18 +122,19 @@ educationcomplete:
       university: Institut supérieur de l'automobile et des transports (ISAT) (Nevers, France)
       time: 2020 - Current
       details: |
-        Master degree in Automotive Engineering for Sustainable Mobility
+        Automotive Engineering for Sustainable Mobility
 
     - degree: Master Degree
       university: Polytechnique de l'Université d'Orléans (Orléans, France)
       time: 2019 - 2020
       details: |
-        Master degree in Automotive Engineering for Sustainable Mobility
+        Automotive Engineering for Sustainable Mobility
     
     - degree: Bachelor Degree
       university: National Institute of Engineering (Mysore, KA, India)
       time: 2015 - 2019
-        Bachelor's degree in Mechanical Engineering
+      details: |
+        Mechanical Engineering
 
 
 experiences:
@@ -151,7 +158,7 @@ experiences:
 
     - role: Intern
       time: July 2017 - August 2017
-      company: Tenneco, Bangalore INDIA
+      company: Tenneco Automotive Inc., Bangalore INDIA
       details: |
         Describe your role here 
 
