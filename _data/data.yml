@@ -97,37 +97,38 @@ education:
       university: Institut supérieur de l'automobile et des transports (ISAT) (Nevers, France)
       time: 2020 - Current
       details: |
-        Master degree in Automotive Engineering for Sustainable Mobility
+        Automotive Engineering for Sustainable Mobility
 
     - degree: Master Degree
       university: Polytechnique de l'Université d'Orléans (Orléans, France)
       time: 2019 - 2020
       details: |
-        Master degree in Automotive Engineering for Sustainable Mobility
+        Automotive Engineering for Sustainable Mobility
     
     - degree: Bachelor Degree
       university: National Institute of Engineering (Mysore, KA, India)
       time: 2015 - 2019
-        Bachelor's degree in Mechanical Engineering
+        Mechanical Engineering
 
 
 educationcomplete:
-    - degree: Master Degree
-      university: Institut supérieur de l'automobile et des transports (ISAT) (Nevers, France)
+    - degree: Institut supérieur de l'automobile et des transports (ISAT) (Nevers, France)
+      university: Master Degree
       time: 2020 - Current
       details: |
-        Master degree in Automotive Engineering for Sustainable Mobility
+        Automotive Engineering for Sustainable Mobility
 
-    - degree: Master Degree
-      university: Polytechnique de l'Université d'Orléans (Orléans, France)
+    - degree: Polytechnique de l'Université d'Orléans (Orléans, France)
+      university: Master Degree
       time: 2019 - 2020
       details: |
-        Master degree in Automotive Engineering for Sustainable Mobility
+        Automotive Engineering for Sustainable Mobility
     
-    - degree: Bachelor Degree
-      university: National Institute of Engineering (Mysore, KA, India)
+    - degree: National Institute of Engineering (Mysore, KA, India)
+      university: Bachelor Degree
       time: 2015 - 2019
-        Bachelor's degree in Mechanical Engineering
+      details: |
+        Mechanical Engineering
 
 
 experiences:
