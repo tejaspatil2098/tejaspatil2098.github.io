@@ -125,7 +125,7 @@ educationcomplete:
         Automotive Engineering for Sustainable Mobility
 
     - degree: Master Degree
-      university: Polytechnique de l'Université d'Orléans (Orléans, France)
+      university: Polytech Orléans (Orléans, France)
       time: 2019 - 2020
       details: |
         Automotive Engineering for Sustainable Mobility
@@ -147,7 +147,7 @@ experiences:
     - role: Intern
       time: June 2018 - July 2018
       company: PLANSEE India High Performance materials Pvt. Ltd., Mysore INDIA
-      details: 
+      details: Was taught and shown the manufacturing of high strength metals into wires which are used in various applications like filaments in bulbs, radiators on glass windows
 
     - role: Intern
       time: July 2017 - August 2017
@@ -190,21 +190,16 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: CATIA
-        level: 100%
-
-      - name: BCAT
-        level: 90%
-
-      - name: Solid Edge
-        level: 60%
-
-      - name: AMESim
-        level: 80%
-
+    
       - name: Matlab/Simulink
         level: 90%
-
+        
+      - name: AMESim
+        level: 80%
+       
+      - name: Solid Edge
+        level: 60%
+     
       - name: C/C++
         level: 75%
 
