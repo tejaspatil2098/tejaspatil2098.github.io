@@ -26,7 +26,7 @@ sidebar:
 
     languages:
       - idiom: English
-        level: Fluent
+        level: C2
 
       - idiom: French
         level: B1
@@ -106,7 +106,7 @@ education:
         Automotive Engineering for Sustainable Mobility
 
     - degree: Master Degree
-      university: Polytechnique de l'Université d'Orléans (Orléans, France)
+      university: PolytechOrléans (Orléans, France)
       time: 2019 - 2020
       details: |
         Automotive Engineering for Sustainable Mobility
@@ -147,17 +147,15 @@ experiences:
     - role: Intern
       time: June 2018 - July 2018
       company: PLANSEE India High Performance materials Pvt. Ltd., Mysore INDIA
-      details: Was taught and shown the manufacturing of high strength metals into wires which are used in various applications like filaments in bulbs, radiators on glass windows
+      details: Was taught and shown the manufacturing of high strength metals into wires which are used 
+               in various applications like filaments in bulbs, radiators on glass windows etc.
 
     - role: Intern
       time: July 2017 - August 2017
       company: Tenneco Automotive Inc., Bangalore INDIA
-      details: |
-        Describe your role here 
-
-          - Bullet point
-          - Bullet point
-
+      details: Was taught and shown the manufacturing of Shock absorbers and struts for passenger and utility vehicles.  
+      
+      
 projects:
     title: Projects
     intro: >
@@ -166,7 +164,7 @@ projects:
     assignments:
       - title: Modelling of Series Hybrid Vehicle
         link: "#"
-        tagline: "Responsible for Simulation and optimization Energy management system for the powertrain model using Simulink, modelling of Electrical motor using Simulink, and overall integration of the Simulink model for series hybrid powertrain."
+        tagline: "Responsible for Simulation and optimization of Energy management system for the powertrain model using Simulink, modelling of Electrical motor using Simulink, and overall integration of the Simulink model for series hybrid powertrain."
 
       - title: Motor Generator Unit - Heat for passenger vehicles
         link: "#"
@@ -176,32 +174,29 @@ projects:
         link: "#"
         tagline: "A study on Synthesis and Characterization of Multi-layer metal oxides for Photo-voltaic application- Nano technology"
 
-publications:
-    title: Publications
-    intro: |
-      
 
-    papers:
-      - title: "Synthesis and Characterization of Multi-layer metal oxides for Photo-voltaic application- Nano technology"
-        authors: Tejas P.
-        conference: "CVPR, 2020"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
     
+      - name: Microsoft Office
+        level: 100% 
+     
       - name: Matlab/Simulink
         level: 90%
-        
+            
       - name: AMESim
         level: 80%
        
       - name: Solid Edge
-        level: 60%
+        level: 80%
      
       - name: C/C++
-        level: 75%
+        level: 80%
+        
+    
 
 footer: >
     Designed by Tejas Patil
