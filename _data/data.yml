@@ -29,10 +29,10 @@ sidebar:
         level: Fluent
 
       - idiom: French
-        level: Fluent
+        level: B1
 
       - idiom: German
-        level: Fluent
+        level: A1
       
       - idiom: Hindi
         level: Fluent
@@ -47,7 +47,7 @@ sidebar:
       - item: Travelling
         link:
 
-      - item: Biking
+      - item: Cooking
         link:
 
 career-profile:
@@ -141,20 +141,13 @@ experiences:
     - role: Intern
       time: January 2018 - February 2019
       company: Veera Vahana Udyog Pvt. Ltd., (Bangalore INDIA)
-      details: |
-        Describe your role here 
-
-          - Bullet point
-          - Bullet point
+      details: Was taught and shown the complete manufacturing and assembly of luxury buses in India.  
+       
 
     - role: Intern
       time: June 2018 - July 2018
       company: PLANSEE India High Performance materials Pvt. Ltd., Mysore INDIA
-      details: |
-        Describe your role here 
-
-          - Bullet point
-          - Bullet point
+      details: 
 
     - role: Intern
       time: July 2017 - August 2017
