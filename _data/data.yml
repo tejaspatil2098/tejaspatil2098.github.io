@@ -26,19 +26,19 @@ sidebar:
 
     languages:
       - idiom: English
-        level: C2
+        level: Full Professional Working Proficiency
 
       - idiom: French
-        level: B1
+        level: Professional Working Proficiency
 
       - idiom: German
-        level: A1
+        level: Limited Working Proficiency
       
       - idiom: Hindi
-        level: Fluent
+        level: Native or Bilingual Proficiency
         
       - idiom: Marathi
-        level: Fluent  
+        level: Native or Bilingual Proficiency  
 
     interests:
       - item: Formula 1
@@ -46,6 +46,9 @@ sidebar:
 
       - item: Travelling
         link:
+        
+      - item: Travelling
+        link:  
 
       - item: Cooking
         link:
@@ -53,8 +56,7 @@ sidebar:
 career-profile:
     title: About
     summary: |
-      I am currently pursuing Master's degree in Automotive engineering for sustainable mobility. 
-      With my knowledge and professional practice experience in the field of Automotive industry, I believe I can make a valuable contribution to the Automotive Industry.
+      Currently pursuing Master's degree in Automotive engineering for Sustainable Mobility. With my knowledge and professional practice experience in the field of Automotive Industry, I believe I can make a valuable contribution to the Automotive Industry. I am currently pursuing Master's degree in Automotive engineering for sustainable mobility. With my knowledge and professional practice experience in the field of Automotive industry, I believe I can make a valuable contribution to the Automotive Industry.
 
 # news:
 #     title: News
@@ -162,17 +164,17 @@ projects:
       
 
     assignments:
-      - title: Modelling of Series Hybrid Vehicle
+      - title: Modelling of Series Hybrid Vehicle (02/2020 - 06/2020)
         link: "#"
         tagline: "Responsible for Simulation and optimization of Energy management system for the powertrain model using Simulink, modelling of Electrical motor using Simulink, and overall integration of the Simulink model for series hybrid powertrain."
 
-      - title: Motor Generator Unit - Heat for passenger vehicles
+      - title: Motor Generator Unit - Heat for passenger vehicles (01/2019 - 05/2019)
         link: "#"
-        tagline: "Designed a Motor Generator Unit - Heat for passenger vehicles"
+        tagline: "Responsible for Design and Modelling of Motor Generator Unit (Heat) for passenger vehicles"
 
-      - title: Synthesis and Characterization of Multi-layer metal oxides for Photo-voltaic application- Nano technology
+      - title: Synthesis and Characterization of Multi-layer metal oxides for Photo-voltaic application- Nano technology (01/2018 - 05/2018)
         link: "#"
-        tagline: "A study on Synthesis and Characterization of Multi-layer metal oxides for Photo-voltaic application- Nano technology"
+        tagline: "My work dealt with surface morphology of the ZnO film fabricated layer by layer deposition on NiO coated ITO glass for photovoltaic applications like filters or sensors."
 
 
 
@@ -184,16 +186,25 @@ skills:
       - name: Microsoft Office
         level: 100% 
      
-      - name: Matlab/Simulink
+      - name: Matlab
+        level: 90%
+      
+      - name: Simulink
         level: 90%
             
-      - name: AMESim
+      - name: Simcenter AMESim
         level: 80%
        
       - name: Solid Edge
         level: 80%
      
       - name: C/C++
+        level: 80%
+        
+      - name: CATIA V5 R21
+        level: 70%
+        
+      - name: CNC
         level: 80%
         
     
